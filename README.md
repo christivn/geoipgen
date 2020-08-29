@@ -1,4 +1,4 @@
-# geo-ip-gen
+# geoipgen
 Generator of valid IPs by country
 
 #### geoipgen.generate.IP(cidr)
