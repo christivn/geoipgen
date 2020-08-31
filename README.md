@@ -1,6 +1,10 @@
 # geoipgen
 Generator of valid IPs by country
 
+Using [subnet-calculator-cidr](https://github.com/christivn/subnet-calculator-cidr)
+
+<hr>
+
 #### geoipgen.generate.IP(cidr)
 Returns a random ip from a CIDR
 
